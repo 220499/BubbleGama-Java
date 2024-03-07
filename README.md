@@ -22,6 +22,7 @@ select the game difficulty: Easy (4 bubbles), Medium (5 bubbles), Hard (6 bubble
 <img width="287" alt="image" src="https://github.com/220499/BubbleGama-Java/assets/51882285/90db4b29-65d9-4b08-b8cb-7d66db23abda">
 
 • Game over and restart.
+
 <img width="287" alt="image" src="https://github.com/220499/BubbleGama-Java/assets/51882285/74980b31-1c3d-47dd-a5d1-af92c8c303de">
 
 
